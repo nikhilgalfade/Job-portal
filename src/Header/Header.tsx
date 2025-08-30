@@ -21,6 +21,7 @@ const Header = () => {
             <div className="absolute hidden group-hover:flex flex-col bg-white shadow-lg mt-2 rounded-md w-48 text-sm text-gray-700">
               <a href="#" className="px-4 py-2 hover:bg-gray-100">Browse Jobs</a>
               <a href="#" className="px-4 py-2 hover:bg-gray-100">Saved Jobs</a>
+              <a href="#" className="px-4 py-2 hover:bg-gray-100">Jobs</a>
               <a href="#" className="px-4 py-2 hover:bg-gray-100">Profile</a>
             </div>
           </div>
